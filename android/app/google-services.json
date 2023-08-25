@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655946141578",
+    "firebase_url": "https://cest-7e377-default-rtdb.firebaseio.com",
+    "project_id": "cest-7e377",
+    "storage_bucket": "cest-7e377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655946141578:android:346616b0385753a4694273",
+        "android_client_info": {
+          "package_name": "com.example.ies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655946141578-3gb2m8a0nvruegud470tmg81uorj2uvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmNckcl0BHFVDx4eZbKQ_Ff34ObU5yY18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655946141578-3gb2m8a0nvruegud470tmg81uorj2uvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655946141578-brio6df74ec0ehr6l01g2oov9vqjlfl5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ies.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
